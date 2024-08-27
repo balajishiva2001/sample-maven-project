@@ -30,7 +30,7 @@ This is an example of how to list things you need to use the software and how to
 * Open the project using the Eclipse / STS
 * Run the App.java in the project as a Java application
 
-##Some important maven commands
+## Some important maven commands
   ```sh
   1. mvn help:describe
   2. mvn help:effective-pom
