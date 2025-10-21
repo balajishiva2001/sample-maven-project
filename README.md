@@ -34,26 +34,31 @@ Ensure you have the following installed:
 2️⃣ Clone the Repository
 
 Open your terminal or Git Bash and run:
-
+```bash
 git clone https://github.com/balajishiva2001/sample-maven-project.git  
 cd sample-maven-project
+```
 
+---
 3️⃣ Build the Project
 
 Use Maven to build the project:
-
+```bash
 mvn clean install
+```
 
+---
 4️⃣ Run the Application
 
 Execute the Java application:
-
+```bash
 mvn exec:java
+```
 
 ---
 
 📂 Project Structure
-
+```
 sample-maven-project/  
 ├── src/  
 │   └── main/  
@@ -62,6 +67,7 @@ sample-maven-project/
 ├── .gitignore  
 ├── pom.xml  
 └── README.md  
+```
 
 ---
 
